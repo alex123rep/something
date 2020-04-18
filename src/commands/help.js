@@ -53,12 +53,12 @@ exports.run = (client, message, args, level) => {
 
     embed.addField(
       "Invite me",
-      "[Click here](https://discordapp.com/oauth2/authorize?client_id=435961704145485835&permissions=8&scope=bot) to add me to your server",
+      "[Click here](https://discordapp.com/oauth2/authorize?client_id=701160867479420988&scope=bot&permissions=8) to add me to your server",
       true
     );
     embed.addField(
       "Support",
-      "[Click here](https://discord.gg/HCF8mdv) if bot broke",
+      "[Click here](https://discord.gg/ZD32NV6) if bot broke",
       true
     );
 

@@ -1,5 +1,5 @@
 exports.run = async (client, message, args) =>{
-    message.channel.send("Use this link to join my support server: https://discord.gg/HCF8mdv")
+    message.channel.send("Use this link to join my support server: https://discord.gg/ZD32NV6")
 };
 
 exports.conf = {
